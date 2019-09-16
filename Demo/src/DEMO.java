@@ -6,4 +6,5 @@ public class DEMO {
 	int m=2;
 	
 	int k  = 3;
+	public String  s = ":";
 }
