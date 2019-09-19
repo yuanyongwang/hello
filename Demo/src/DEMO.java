@@ -6,5 +6,7 @@ public class DEMO {
 	int j=2;
 	
 	int m=2;
+	
+	int a=65;
 
 }
