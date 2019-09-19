@@ -3,8 +3,8 @@ public class DEMO {
 
 	int i=5;
 	
-	int j=3;
+	int j=2;
 	
-	int m=2;
+	int m=3;
 
 }
