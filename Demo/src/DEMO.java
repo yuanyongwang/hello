@@ -5,6 +5,6 @@ public class DEMO {
 	
 	int j=3;
 	
-	int m=2;
+	int m=78;
 
 }
