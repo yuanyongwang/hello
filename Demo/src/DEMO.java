@@ -1,7 +1,7 @@
 
 public class DEMO {
 
-	int i=1;
+	int i=5;
 	
 	int j=3;
 	
