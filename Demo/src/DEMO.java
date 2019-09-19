@@ -1,10 +1,10 @@
 
 public class DEMO {
 
-	int i=7;
+	int i=1;
 	
-	int j=6;
+	int j=1;
 	
-	int m=5;
+	int m=1;
 
 }
