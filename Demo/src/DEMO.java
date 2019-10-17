@@ -1,14 +1,12 @@
 
 public class DEMO {
 
-	int i=2;
+	int i=1;
 	
-	int j=2;
+	int j=1;
 	
-	int m=2;
+	int m=1;
 	
-	int a=2;
-	
-	int b=1;
+	int a=1;
 
 }
