@@ -1,6 +1,6 @@
 
 public class DEMO {
 	
-	int i=6;
+	int i=8;
 
 }
